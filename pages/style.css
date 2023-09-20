@@ -1,6 +1,6 @@
-@import url(../pages/normalize.css);
-@import url(../pages/index.css);
-@import url(../fonts/inter.css);
+@import url(./pages/normalize.css);
+@import url(./pages/index.css);
+@import url(./fonts/inter.css);
 
 /* -- HEADER --  */
 @import url(../blocks/header/header.css);
@@ -8,17 +8,17 @@
 
 /* MAIN */
 /* -- lead -- */
-@import url(../blocks/main/lead/lead.css);
-@import url(../blocks/main/lead/__title/lead__title.css);
-@import url(../blocks/main/lead/__subtitle/lead__subtitle.css);
-@import url(../blocks/main/lead/__image/lead__image.css);
+@import url(//blocks/main/lead/lead.css);
+@import url(//blocks/main/lead/__title/lead__title.css);
+@import url(//blocks/main/lead/__subtitle/lead__subtitle.css);
+@import url(//blocks/main/lead/__image/lead__image.css);
 
 /* -- intro -- */
-@import url(../blocks/main/intro/intro.css);
-@import url(../blocks/main/intro/__title/intro__title.css);
-@import url(../blocks/main/intro/__cite/intro__cite.css);
-@import url(../blocks/main/intro/__cite-author/intro__cite-author.css);
-@import url(../blocks/main/intro/__text/intro__text.css);
+@import url(//blocks/main/intro/intro.css);
+@import url(//blocks/main/intro/__title/intro__title.css);
+@import url(//blocks/main/intro/__cite/intro__cite.css);
+@import url(//blocks/main/intro/__cite-author/intro__cite-author.css);
+@import url(//blocks/main/intro/__text/intro__text.css);
 
 /* -- photo-grid -- */
 @import url(../blocks/main/photo-grid/photo-grid.css);
@@ -51,9 +51,6 @@
 @import url(../blocks/footer/__copyright/footer__copyright.css);
 
 body {
-  /* margin: auto; */
   background-color: #2A2C2F;
   color: #FFFFFF;
-  /* border: 1px solid red;
-  box-sizing: border-box; */
 }
