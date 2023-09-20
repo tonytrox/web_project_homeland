@@ -1,0 +1,20 @@
+.cover__text {
+  font-family: "Inter";
+  font-size: 14px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 16px;
+  margin:0;
+}
+
+@media screen and (min-width:324px) {
+  .cover__text {
+    font-family: "Inter";
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 22px;
+    margin: 0;
+  }
+  
+}

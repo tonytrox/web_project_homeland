@@ -1,0 +1,11 @@
+.cover__button_text {
+  width: 158px;
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 600;
+  font-size: 18px;
+  line-height: 22px;
+  color: #FFFFFF;
+  text-decoration: none;
+  margin: auto;
+}

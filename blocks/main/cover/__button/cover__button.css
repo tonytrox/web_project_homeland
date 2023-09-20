@@ -1,0 +1,12 @@
+.cover__button {
+  background-color: #0278FE;
+  border-radius: 4px;
+  display: flex;
+  margin: 0 auto;
+  padding: 13px 20px;
+}
+
+.cover__button:hover {
+  background-color: #0063D2;
+  
+}

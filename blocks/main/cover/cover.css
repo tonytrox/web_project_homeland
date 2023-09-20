@@ -1,0 +1,27 @@
+.cover {
+  width: 320px;
+  height: 254px;
+  background-image: url(../../../images/background-imagefull.png);
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.cover:hover {
+  background-color: #2A2C2F;
+  opacity: 0.8;
+}
+
+@media screen and (min-width:324px){
+  .cover {
+    width: 768px;
+    height: 746px;
+  }
+}
+
+@media screen and (min-width:772px){
+  .cover {
+    width: 1184px;
+    height: 740px;
+    margin: 0 auto;
+  }
+}

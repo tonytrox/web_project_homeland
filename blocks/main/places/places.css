@@ -1,0 +1,19 @@
+.places {
+  margin: 0 auto;
+  width: 320px;
+  font-family: "Inter";
+  padding-top: 62px;
+  padding-bottom: 64px;
+}
+
+@media screen and (min-width:324px) {
+  .places {
+    width: 720px;
+  }
+}
+
+@media screen and (min-width:772px) {
+  .places {
+    width: 987px;
+  }
+}

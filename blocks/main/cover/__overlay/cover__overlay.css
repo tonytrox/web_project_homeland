@@ -1,0 +1,26 @@
+.cover__overlay {
+  width: 288px;
+  display: flex;
+  flex-direction: column;
+  gap: 16px;
+  padding-top: 46px;
+  margin: 0 auto; 
+}
+
+@media screen and (min-width:324px) {
+  .cover__overlay {
+    width: 656px;
+    gap: 32px;
+    padding-top: 246px;
+    margin: 0 auto;  
+  }
+}
+
+@media screen and (min-width:772px) {
+  .cover__overlay {
+    width: 656px;
+    gap: 32px;
+    padding-top: 243px;
+    margin: 0 auto;  
+  }
+}

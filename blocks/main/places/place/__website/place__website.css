@@ -1,0 +1,28 @@
+.place__website {
+  display: flex;
+  flex-direction: column;
+  gap: 7px;
+  width: 288px;
+  margin: 0 auto;
+  grid-area: header;
+  grid-column-start: 2;
+}
+
+@media screen and (min-width:324px){
+  .place__website {
+    display: flex;
+    flex-direction: column;
+    gap: 8px;
+    margin: 0;
+  }
+}
+
+@media screen and (min-width:772px){
+  .place__website {
+    display: flex;
+    flex-direction: column;
+    gap: 8px;
+    margin: 0;
+    align-self: flex-end;
+  }
+}

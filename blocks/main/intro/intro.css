@@ -1,0 +1,24 @@
+.intro {
+  width: 288px;
+  justify-content: center;
+  display: flex;
+  flex-direction: column;
+  margin: 0 auto;
+}
+
+@media screen and (min-width:324px) {
+  .intro {
+    width: 720px;
+    height: 607px;
+    padding-bottom: 64px;
+  }
+}
+
+@media screen and (min-width:772px) {
+  .intro {
+    width: 1017px;
+    height: 516px;
+    padding-bottom: 92px;
+  }
+}
+

@@ -1,0 +1,36 @@
+.place {
+  display: flex;
+  flex-direction: column;
+  margin: 0 auto;
+  padding-bottom: 50px;
+}
+
+@media screen and (min-width:324px){
+  .place {
+    width: 720px;
+    display: grid;
+    row-gap: 24px;
+    column-gap: 16px;
+    grid-template-columns: repeat(2, 1fr);
+    grid-template-rows: auto 340px 1fr;
+    grid-template-areas: 
+    "header header"
+    "image text"
+    "button text";
+  }
+}
+
+@media screen and (min-width:772px){
+  .place {
+    width: 987px;
+    display: grid;
+    row-gap: 48px;
+    column-gap: 40px;
+    grid-template-columns: repeat(2, 1fr);
+    grid-template-rows: auto 460px 1fr;
+    grid-template-areas: 
+    "header header"
+    "image text"
+    "button text";
+  }
+}

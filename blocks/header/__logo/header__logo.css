@@ -1,0 +1,12 @@
+.header__logo {
+  width: 200px;
+  display: block;
+  margin: 0 auto;
+}
+
+@media screen and (min-width: 324px) {
+  .header__logo {
+    width: 270px;
+    height: 70px;
+  }
+}
