@@ -5,7 +5,7 @@
   padding-bottom: 50px;
 }
 
-@media screen and (min-width:324px){
+@media screen and (min-width:766px){
   .place {
     width: 720px;
     display: grid;
@@ -20,7 +20,7 @@
   }
 }
 
-@media screen and (min-width:772px){
+@media screen and (min-width:1278px){
   .place {
     width: 987px;
     display: grid;

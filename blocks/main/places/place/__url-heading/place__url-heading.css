@@ -10,7 +10,7 @@
   letter-spacing: 1.44px;
 }
 
-@media screen and (min-width:324px) {
+@media screen and (min-width:766px) {
   .place__url-heading {
     width: 58px;
     height: 15px;

@@ -1,7 +1,7 @@
 .lead__title {
   width: 288px;
   height: 88px;
-  font-family: "Inter";
+  font-family: "Inter", Arial, sans-serif;
   font-size: 40px;
   font-style: normal;
   font-weight: 900;
@@ -11,13 +11,14 @@
   padding-bottom: 60px;
 }
 
-/* - Se le añade 4px adicionales para reservar la ruptura de pantalla - 
+/* - Se le reduce 2px como reserva antes de la ruptura de pantalla - 
 
 @media screen and (min-width: 320px)
-@media screen and (min-width: 768px)
+@media screen and (min-width: 768px) - 766
+@media screen and (min-width: 1280px) - 1278
 */
 
-@media screen and (min-width: 324px) {
+@media screen and (min-width:766px) {
   .lead__title {
     width: 720px;
     height: 200px;
@@ -27,7 +28,7 @@
   }
 } 
 
-@media screen and (min-width: 772px) {
+@media screen and (min-width:1278px) {
   .lead__title {
     width: 793px;
     height: 200px;

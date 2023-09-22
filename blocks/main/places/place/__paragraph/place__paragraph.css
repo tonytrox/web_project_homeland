@@ -6,14 +6,14 @@
   grid-area: text;
 }
 
-@media screen and (min-width:324px){
+@media screen and (min-width:766px){
   .place__paragraph {
     width: 352px;
     margin: 0;
   }
 }
 
-@media screen and (min-width:772px){
+@media screen and (min-width:1278px){
   .place__paragraph {
     width: 484px;
     margin: 0;

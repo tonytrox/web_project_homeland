@@ -1,18 +1,18 @@
 .places {
   margin: 0 auto;
   width: 320px;
-  font-family: "Inter";
+  font-family: "Inter", Arial, sans-serif;
   padding-top: 62px;
-  padding-bottom: 64px;
+  padding-bottom: 14px;
 }
 
-@media screen and (min-width:324px) {
+@media screen and (min-width:766px) {
   .places {
     width: 720px;
   }
 }
 
-@media screen and (min-width:772px) {
+@media screen and (min-width:1278px) {
   .places {
     width: 987px;
   }

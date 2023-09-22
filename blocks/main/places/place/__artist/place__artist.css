@@ -1,6 +1,5 @@
 .place__artist {
   width: 288px;
-  height: 44px;
   font-size: 18px;
   font-weight: 400px;
   line-height: 22px;
@@ -8,14 +7,14 @@
   margin: 0;
 }
 
-@media screen and (min-width:324px){
+@media screen and (min-width:766px){
   .place__artist {
     width: 295px;
     height: 44px;
   }
 }
 
-@media screen and (min-width:772px){
+@media screen and (min-width:1278px){
   .place__artist {
     width: 456px;
     height: 22px;

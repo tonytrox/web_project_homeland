@@ -7,7 +7,7 @@
   margin: 0 auto; 
 }
 
-@media screen and (min-width:324px) {
+@media screen and (min-width:766px) {
   .cover__overlay {
     width: 656px;
     gap: 32px;
@@ -16,7 +16,7 @@
   }
 }
 
-@media screen and (min-width:772px) {
+@media screen and (min-width:1278px) {
   .cover__overlay {
     width: 656px;
     gap: 32px;

@@ -8,7 +8,7 @@
   padding-top: 30px;
 } 
 
-@media screen and (min-width:324px) {
+@media screen and (min-width:766px) {
   .photo-grid {
     width: 720px;
     height: 1104px;
@@ -19,7 +19,7 @@
   } 
 }
 
-@media screen and (min-width:772px) {
+@media screen and (min-width:1278px) {
   .photo-grid {
     width: 1184px;
     height: 442px;

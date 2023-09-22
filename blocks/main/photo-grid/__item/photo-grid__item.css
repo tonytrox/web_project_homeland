@@ -3,7 +3,7 @@
   height: 216px;
 }
 
-@media screen and (min-width:324px){
+@media screen and (min-width:766px){
   .photo-grid__item {
     width: 352px;
     height: 264px;
@@ -11,7 +11,7 @@
 }
 
 
-@media screen and (min-width:772px){
+@media screen and (min-width:1278px){
   .photo-grid__item {
     width: 284px;
     height: 213px;

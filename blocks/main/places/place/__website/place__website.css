@@ -8,7 +8,7 @@
   grid-column-start: 2;
 }
 
-@media screen and (min-width:324px){
+@media screen and (min-width:766px){
   .place__website {
     display: flex;
     flex-direction: column;
@@ -17,7 +17,7 @@
   }
 }
 
-@media screen and (min-width:772px){
+@media screen and (min-width:1278px){
   .place__website {
     display: flex;
     flex-direction: column;

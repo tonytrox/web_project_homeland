@@ -13,7 +13,7 @@
   background-color: #0063D2;
 }
 
-@media screen and (min-width:324px){
+@media screen and (min-width:766px){
   .place__button {
     width: 355px;
     height: 48px;

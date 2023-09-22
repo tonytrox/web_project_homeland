@@ -6,7 +6,7 @@
   line-height: 26px;  
 }
 
-@media screen and (min-width:772px) {
+@media screen and (min-width:766px) {
   .place__text {
     font-size: 18px;
     line-height: 29px;

@@ -3,14 +3,14 @@
   padding-top: 64px;
 }
 
-@media screen and (min-width:324px){
+@media screen and (min-width:766px){
   .footer {
     padding-bottom: 24px;
     padding-top: 88px;
   }
 }
 
-@media screen and (min-width:772px){
+@media screen and (min-width:1278px){
   .footer {
     padding-bottom: 24px;
     padding-top: 92px;

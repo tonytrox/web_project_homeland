@@ -4,14 +4,14 @@
   margin: 0 auto;
 }
 
-@media screen and (min-width: 324px) {
+@media screen and (min-width: 766px) {
   .lead__image {
     width: 768px;
     height: 480px;
   }
 }
 
-@media screen and (min-width: 772px) {
+@media screen and (min-width: 1278px) {
   .lead__image {
     width: 984px;
     height: 615px;

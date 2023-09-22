@@ -8,9 +8,9 @@ Como parte de la mejora continua, al inicio no parece una tarea sencilla pero co
 - FLexbox
 - Grid
 - BEM
-- **Puntos de Ruptura en 324px y 772px**
-El objetivo es no afectar a las resolución solicitada (320px, 768px, 1280px) en caso de que las pantallas tengan la resolución exacta.
+- **Puntos de Ruptura en 766px y 1278px**
+El objetivo es no afectar a las resolución solicitada (320px, 768px, 1280px) en caso de que las pantallas tengan la resolución exacta, se redujo 2px como referencia.
 - Atajos y tips que fueron apareciendo durante la maquetación.
 - First Mobile y First Desktop.
 
-##### para visualizarlo hacer clic en el siguiente [Link](http://localhost/)
+##### para visualizarlo hacer clic en el siguiente [Link](https://tonytrox.github.io/web_project_homeland/)

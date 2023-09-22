@@ -1,7 +1,7 @@
 .place__button_text {
   color: #FFFFFF;
   font-size: 14px;
-  font-family: "Inter";
+  font-family: "Inter", Arial, sans-serif;
   font-style: normal;
   font-weight: 600;
   line-height: normal;
@@ -9,7 +9,7 @@
   margin: auto;
 } 
 
-@media screen and (min-width:324px) {
+@media screen and (min-width:766px) {
   .place__button_text {
     font-size: 18px;
     margin: 0;

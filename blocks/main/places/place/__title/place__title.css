@@ -1,7 +1,8 @@
 .place__title {
   display: block;
-  width: 320px;
-  margin-left: 16px;
+  width: 100%;
+  margin: 0;
+  padding-left: 16px;
   font-size: 32px;
   line-height: 35px;
   font-weight: 900;
@@ -9,22 +10,23 @@
   grid-area: header;
 }
 
-@media screen and (min-width:324px) {
+@media screen and (min-width:766px) {
   .place__title {
     width: 340px;
     margin:0;
     font-size: 42px;
     line-height: 46px;
     grid-area: header;
+    padding-left: 0;
   }
 }
 
-@media screen and (min-width:772px) {
+@media screen and (min-width:1278px) {
   .place__title {
     width: 533px;
     height: 152px;
     font-size: 72px;
     line-height: 76px;
-    margin: 0;
+    padding-left: 0;
   }
 }

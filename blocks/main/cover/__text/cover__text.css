@@ -1,5 +1,5 @@
 .cover__text {
-  font-family: "Inter";
+  font-family: "Inter", Arial, sans-serif;
   font-size: 14px;
   font-style: normal;
   font-weight: 400;
@@ -7,9 +7,8 @@
   margin:0;
 }
 
-@media screen and (min-width:324px) {
+@media screen and (min-width:766px) {
   .cover__text {
-    font-family: "Inter";
     font-size: 18px;
     font-style: normal;
     font-weight: 400;

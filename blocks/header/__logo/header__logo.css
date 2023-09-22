@@ -1,10 +1,10 @@
 .header__logo {
   width: 200px;
   display: block;
-  margin: 0 auto;
+  margin: auto;
 }
 
-@media screen and (min-width: 324px) {
+@media screen and (min-width:766px) {
   .header__logo {
     width: 270px;
     height: 70px;
